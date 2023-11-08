@@ -602,7 +602,9 @@ footer {
             - bottom: 1rem
             - left: 0
 */
-#section4 p:last-of-type {}
+#section4 p:last-of-type {
+    margin: 1rem 0 1rem 0;
+}
 
 /* ------------- SECTION 5 STYLES ---------------- */
 /* Background image default behavior */
